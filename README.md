@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![pytest](https://img.shields.io/badge/pytest-8.x-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Tests](https://github.com/FazakasNimrod/Software-Testing/actions/workflows/pytest.yml/badge.svg)
 
 ## 📋 Overview
 
