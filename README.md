@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![pytest](https://img.shields.io/badge/pytest-8.x-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Tests](https://github.com/FazakasNimrod/Software-Testing/actions/workflows/pytest.yml/badge.svg)
 
 ## 📋 Overview
@@ -112,7 +111,3 @@ This project follows a systematic approach to unit testing:
 - [pytest Documentation](https://docs.pytest.org/)
 - [Python Unit Testing Best Practices](https://realpython.com/python-testing/)
 - [Software Testing Fundamentals](https://softwaretestingfundamentals.com/)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
