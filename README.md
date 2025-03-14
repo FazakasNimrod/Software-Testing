@@ -15,11 +15,14 @@ This repository contains a comprehensive suite of unit tests for an employee man
 ├── calculator.py                # Simple calculator example
 ├── calculator_test.py           # Tests for calculator example
 ├── employee.py                  # Employee class definition
-├── employee_manager.py          # Salary calculation and notification
+├── employee_manager.py          # Salary calculation and notification logic
 ├── relations_manager.py         # Team management functionality
 ├── requirements.txt             # Project dependencies
 ├── test_employee_manager.py     # Tests for EmployeeManager
-└── test_relations_manager.py    # Tests for RelationsManager
+├── test_relations_manager.py    # Tests for RelationsManager
+└── .github
+    └── workflows
+        └── pytest.yml           # CI/CD configuration
 ```
 
 ## ✨ Features
